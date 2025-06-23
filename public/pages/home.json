@@ -1,246 +1,192 @@
-
 {
-  "meta": {
-    "title": "Shiv Brass Industries - Precision Forged Brass Components",
-    "description": "Leading manufacturer of high-quality forged brass parts for automotive, pneumatic, aerospace, and hydraulic applications. ISO 9001:2015 certified with 35+ years of experience."
-  },
   "hero": {
-    "type": "video",
-    "enabled": true,
-    "title": "Precision Brass Engineering Excellence",
-    "subtitle": "Manufacturing superior forged brass components for critical applications",
-    "backgroundVideo": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NL0L5N5Rgimkt8edi/videoblocks-authomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part_seemoxrjtx__456bda19ebbb32c7b3b6e1208019deab__P1080.mp4?response-content-disposition=attachment%3Bfilename%3Dauthomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part-SBV-327456926-preview.mp1",
-    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80",
     "cta": {
-      "primary": "Explore Products",
+      "primary": "Explore Brass Forging Solutions",
+      "secondary": "Get a Custom Quote",
       "primaryAction": "/products",
-      "secondary": "Get Quote",
       "secondaryAction": "/contact"
-    }
+    },
+    "type": "video",
+    "title": "Precision Brass Forging Excellence",
+    "enabled": true,
+    "subtitle": "Custom Manufacturing Solutions for Industrial Applications",
+    "backgroundImage": "https://images.unsplash.com/photo-1615228402326-7adf9a257f2b",
+    "backgroundVideo": "https://hthusloogpnfqefzskvh.supabase.co/storage/v1/object/public/videos//cnc%20machining%20brass.mp4"
+  },
+  "meta": {
+    "title": "123 Brass - Expert Forging Manufacturing in Jamnagar",
+    "description": "Specialized brass and steel forging solutions with custom manufacturing services for diverse industrial needs."
   },
   "sections": {
-    "whyChooseUs": {
-      "type": "why-choose-us",
+    "cta": {
+      "type": "cta",
+      "title": "Ready to Transform Your Manufacturing Needs?",
       "enabled": true,
-      "title": "Why Choose Shiv Brass Industries",
-      "subtitle": "Excellence in brass forging and manufacturing",
+      "subtitle": "Partner with 123 Brass for precision-engineered forging solutions tailored to your specifications",
+      "primaryCTA": {
+        "text": "View Our Products",
+        "action": "/products"
+      },
+      "secondaryCTA": {
+        "text": "Contact Our Experts",
+        "action": "/contact"
+      }
+    },
+    "faqs": {
+      "type": "faqs",
       "items": [
         {
+          "id": "minimum-order",
+          "answer": "We accommodate both small and large volume orders, with flexible minimum order quantities tailored to your specific project requirements.",
+          "question": "What are your minimum order quantities?"
+        },
+        {
+          "id": "lead-time",
+          "answer": "Standard lead times range from 2-4 weeks depending on complexity and volume. Custom projects may have adjusted timelines.",
+          "question": "What are your typical production lead times?"
+        },
+        {
           "id": "quality",
-          "icon": "award",
-          "title": "Superior Quality",
-          "description": "ISO 9001:2015 certified manufacturing processes ensuring consistent quality and reliability in every component."
+          "answer": "We maintain rigorous quality control processes, utilizing precision measurement tools and comprehensive inspection protocols for every forged component.",
+          "question": "How do you ensure product quality?"
         },
         {
-          "id": "experience",
-          "icon": "clock",
-          "title": "35+ Years Experience",
-          "description": "Over three decades of expertise in brass forging, machining, and precision manufacturing for critical applications."
-        },
-        {
-          "id": "technology",
-          "icon": "cog",
-          "title": "Advanced Technology",
-          "description": "State-of-the-art CNC machines, forging presses, and quality testing equipment for superior component manufacturing."
+          "id": "materials",
+          "answer": "We specialize in brass and steel forging, offering expertise in various alloy compositions and metallurgical requirements.",
+          "question": "What materials do you work with?"
         }
-      ]
-    },
-    "aboutusintro": {
-      "type": "about-us-intro",
+      ],
+      "title": "Frequently Asked Questions",
       "enabled": true,
-      "title": "About Shiv Brass Industries",
-      "subtitle": "Leaders in precision brass component manufacturing",
-      "description": "Established with a vision to provide high-quality brass components, Shiv Brass Industries has grown to become a trusted partner for automotive, aerospace, pneumatic, and hydraulic industries. Our commitment to excellence, precision manufacturing, and customer satisfaction drives everything we do.",
-      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=800&q=80",
-      "highlights": [
-        "ISO 9001:2015 Certified",
-        "500+ Component Variants",
-        "50+ Countries Served",
-        "24/7 Technical Support"
-      ]
+      "subtitle": "Get instant answers about our forging manufacturing services"
     },
     "stats": {
       "type": "stats",
-      "enabled": true,
-      "title": "Our Manufacturing Achievements",
-      "subtitle": "Delivering excellence across industries worldwide",
       "items": [
-        { "number": "35+", "label": "Years Experience" },
-        { "number": "500+", "label": "Product Variants" },
-        { "number": "50+", "label": "Countries Served" },
-        { "number": "10000+", "label": "Satisfied Clients" }
-      ]
+        {
+          "label": "Years Experience",
+          "number": "15+"
+        },
+        {
+          "label": "Product Variants",
+          "number": "200+"
+        },
+        {
+          "label": "Served Regions",
+          "number": "10+"
+        },
+        {
+          "label": "Satisfied Clients",
+          "number": "500+"
+        }
+      ],
+      "title": "Our Manufacturing Achievements",
+      "enabled": true,
+      "subtitle": "Delivering precision engineering solutions across multiple industries"
     },
     "expertise": {
       "type": "expertise",
+      "title": "Industries We Serve",
       "enabled": true,
-      "title": "Our Industry Expertise",
-      "subtitle": "Specialized brass components for critical applications",
-      "description": "Shiv Brass Industries serves diverse sectors with precision-engineered brass components designed for demanding applications.",
       "sectors": [
         {
           "id": "automotive",
-          "name": "Automotive Industry",
-          "description": "High-performance brass components for automotive applications including engine parts, fuel systems, and transmission components.",
-          "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=600&q=80",
+          "name": "Automotive",
+          "image": "https://images.unsplash.com/photo-1586336153815-6d6c0c7d7d84",
+          "description": "Specialized brass components for automotive manufacturing, including precision-engineered parts and connectors.",
           "applications": [
             "Engine Components",
-            "Fuel Systems",
-            "Brake Systems",
             "Transmission Parts",
-            "Cooling Systems"
-          ]
-        },
-        {
-          "id": "electrical",
-          "name": "Electrical & Electronics",
-          "description": "Precision brass electrical components for reliable connectivity and conductivity in various electronic systems.",
-          "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Electrical Contacts",
-            "Terminal Connectors",
-            "Switch Components",
-            "Circuit Breakers",
-            "Electronic Terminals"
-          ]
-        },
-        {
-          "id": "construction",
-          "name": "Construction & Plumbing",
-          "description": "Durable brass fittings and components for construction, plumbing, and infrastructure applications.",
-          "image": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Pipe Fittings",
-            "Plumbing Hardware",
-            "Compression Fittings",
-            "Valve Components",
-            "Structural Elements"
-          ]
-        },
-        {
-          "id": "marine",
-          "name": "Marine Applications",
-          "description": "Corrosion-resistant brass components designed for harsh marine environments and maritime applications.",
-          "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Propeller Shafts",
-            "Marine Valves",
-            "Port Fittings",
-            "Navigation Equipment",
-            "Hull Components"
-          ]
-        },
-        {
-          "id": "aerospace",
-          "name": "Aerospace Industry",
-          "description": "Precision brass components meeting stringent aerospace standards for aircraft and space applications.",
-          "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Aircraft Components",
-            "Hydraulic Fittings",
-            "Fuel System Parts",
-            "Navigation Components",
-            "Control Mechanisms"
+            "Electrical Connectors",
+            "Hydraulic Fittings"
           ]
         },
         {
           "id": "industrial",
-          "name": "Industrial Machinery",
-          "description": "Heavy-duty brass components for industrial machinery, processing equipment, and manufacturing systems.",
-          "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=600&q=80",
+          "name": "Industrial Manufacturing",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "description": "Comprehensive forging solutions for complex industrial applications requiring high-precision metal components.",
           "applications": [
-            "Machinery Components",
-            "Hydraulic Fittings",
-            "Valve Bodies",
-            "Pressure Vessels",
-            "Heat Exchangers"
-          ]
-        },
-        {
-          "id": "hvac",
-          "name": "HVAC Systems",
-          "description": "Specialized brass components for heating, ventilation, and air conditioning systems.",
-          "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "HVAC Fittings",
-            "Thermostat Components",
-            "Valve Parts",
-            "Control Systems",
-            "Refrigeration Components"
-          ]
-        },
-        {
-          "id": "oil-gas",
-          "name": "Oil & Gas",
-          "description": "High-pressure brass components designed for demanding oil and gas exploration and processing applications.",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Drilling Equipment",
-            "Pipeline Fittings",
-            "Pressure Gauges",
-            "Control Valves",
-            "Safety Equipment"
+            "Machinery Parts",
+            "Structural Components",
+            "Custom Fasteners",
+            "Specialized Brackets"
           ]
         }
-      ]
+      ],
+      "subtitle": "Delivering specialized forging solutions across diverse sectors",
+      "description": "123 Brass provides expert forging manufacturing services with precision engineering and customized solutions for multiple industrial applications."
+    },
+    "whyChooseUs": {
+      "type": "why-choose-us",
+      "items": [
+        {
+          "id": "quality",
+          "icon": "shield-check",
+          "title": "Uncompromising Quality Standards",
+          "description": "Our commitment to excellence ensures every forged component meets the highest industry specifications and precision requirements."
+        },
+        {
+          "id": "experience",
+          "icon": "calendar",
+          "title": "Decades of Manufacturing Expertise",
+          "description": "With 15+ years of specialized experience, we deliver reliable and innovative forging solutions for complex industrial needs."
+        },
+        {
+          "id": "technology",
+          "icon": "cog",
+          "title": "Advanced Manufacturing Technology",
+          "description": "We leverage cutting-edge equipment and innovative techniques to produce superior brass and steel forged components."
+        }
+      ],
+      "title": "Why Choose 123 Brass",
+      "enabled": true,
+      "subtitle": "Your trusted partner in precision metal manufacturing"
+    },
+    "aboutusintro": {
+      "type": "about-us-intro",
+      "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+      "title": "About 123 Brass",
+      "enabled": true,
+      "subtitle": "Precision Forging Manufacturing in Jamnagar",
+      "highlights": [
+        "ISO 9001:2015 Certified",
+        "200+ Product Variants",
+        "Multiple Industry Expertise",
+        "Custom Manufacturing Solutions"
+      ],
+      "description": "Founded in Jamnagar, 123 Brass specializes in high-quality brass and steel forging manufacturing. We provide comprehensive custom solutions for diverse industrial applications, combining traditional craftsmanship with modern engineering techniques."
     },
     "testimonials": {
       "type": "testimonials",
-      "enabled": true,
-      "title": "What Our Clients Say",
-      "subtitle": "Trusted partnerships built on quality and reliability",
       "items": [
         {
           "id": "client-1",
-          "name": "Rajesh Kumar",
-          "company": "AutoTech Engineering Ltd",
-          "designation": "Procurement Manager",
-          "content": "Shiv Brass Industries has been our trusted supplier for automotive brass components for over 8 years. Their quality consistency and timely delivery have been exceptional.",
+          "name": "Rajesh Patel",
+          "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a",
           "rating": 5,
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80"
+          "company": "Gujarat Industrial Components",
+          "content": "123 Brass consistently delivers exceptional quality and precision. Their custom forging solutions have been crucial to our manufacturing process.",
+          "designation": "Procurement Manager"
         },
         {
           "id": "client-2",
-          "name": "Sarah Johnson",
-          "company": "AeroSpace Industrial Solutions",
-          "designation": "Quality Director",
-          "content": "The precision and quality standards maintained by Shiv Brass Industries meet our stringent aerospace requirements. Excellent partnership for critical components.",
+          "name": "Amit Sharma",
+          "image": "https://images.unsplash.com/photo-1615109398623-88346a0ba3c8",
           "rating": 5,
-          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b1a7?auto=format&fit=crop&w=150&q=80"
+          "company": "National Automotive Systems",
+          "content": "Reliable, innovative, and technically advanced - 123 Brass has been our go-to partner for complex brass forging requirements.",
+          "designation": "Technical Director"
         }
-      ]
-    },
-    "faqs": {
-      "type": "faqs",
+      ],
+      "title": "Client Success Stories",
       "enabled": true,
-      "title": "Frequently Asked Questions",
-      "subtitle": "Common questions about our brass components and services",
-      "items": [
-        {
-          "id": "minimum-order",
-          "question": "What is the minimum order quantity?",
-          "answer": "Our minimum order quantity varies by product complexity and specifications. For standard components, we accept orders starting from 100 pieces. Custom components may have different MOQ requirements."
-        },
-        {
-          "id": "lead-time",
-          "question": "What are the typical lead times?",
-          "answer": "Standard brass components typically have a lead time of 2-4 weeks. Custom forged components may require 4-6 weeks depending on complexity and tooling requirements."
-        }
-      ]
-    },
-    "cta": {
-      "type": "cta",
-      "enabled": true,
-      "title": "Ready to Experience Brass Manufacturing Excellence?",
-      "subtitle": "Partner with Shiv Brass Industries for precision-engineered brass components that meet your exact specifications and quality standards.",
-      "primaryCTA": {
-        "text": "Explore Our Products",
-        "action": "/products"
-      },
-      "secondaryCTA": {
-        "text": "Contact Now",
-        "action": "tel:+91-288-2710234"
-      }
+      "subtitle": "Trusted by leading manufacturers across industries"
     }
+  },
+  "_instructions": {
+    "usage": "Dynamic home page content showcasing 123 Brass manufacturing expertise",
+    "purpose": "Professional split-screen home page template",
+    "content_tone": "Technical, reliable, customer-focused"
   }
 }
